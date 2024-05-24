@@ -1,0 +1,48 @@
+@media (min-width:0px) and (max-width:500px){
+/* subbanner */
+.sub_banner { height: 25rem;}
+.sub_banner .sub_banner_name{font-size: 3rem;}
+.sub_banner .sub_banner_name p {font-size: 1.6rem;}
+/*  */
+.sub_blue_tit {font-size: 1.3rem;}
+.sub_blue_tit+p {font-size: 2rem;margin: 3rem 0 5rem;}
+.sub_blue_tit+p br{display: none;}
+/*  */
+.txt_wrap span { font-size: 1.3rem;}
+.txt_wrap h5 {font-size: 2.2rem;}
+.txt_wrap h5 {font-size: 2.2rem;}
+.txt_wrap p {font-size: 1.5rem;}
+.txt_wrap p br{display: none;}
+/*  */
+.doc_name{margin: 2rem 0;}
+.doc_name img{max-width: 3rem;}
+.doc_name strong{font-size: 3rem;}
+.doc_name span{font-size: 1.6rem;}
+.doc_wrap ul{ font-size: 1.4rem;}
+.doc_txt{padding-left: .5rem;}
+/*  */
+.sub13_ul{ grid-template-columns: repeat(2,1fr);}
+.sub13_ul h6{font-size: 1.6rem;}
+.sub13_ul p{font-size: 1.4rem;}
+/*  */
+.bglogo.page {background-size: 25rem;}
+h4 .b_txt{font-size: 1.2rem;}
+h4 .h4_tit{font-size: 2.2rem;}
+.sub_p{font-size: 1.6rem;}
+.sub_p br{display: none;}
+.sub2_grid {grid-template-columns: repeat(1,1fr); gap: 2rem;}
+.sub2_grid.rp2{grid-template-columns: repeat(1,1fr); gap: 2rem;}
+
+.check_ul li {font-size: 1.7rem;}
+.sub3_1 .sub_p {margin-bottom: 7rem;}
+.sub4_1 .sub_p {margin-bottom: 7rem;}
+
+
+
+
+
+}
+@media (min-width:0px) and (max-width:320px){
+    .sub13_ul{ grid-template-columns: repeat(1,1fr);}
+
+}
